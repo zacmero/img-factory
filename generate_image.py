@@ -5,6 +5,7 @@ import requests
 import base64
 import os
 import argparse
+
 def load_env_fallback():
     if os.path.exists(".env"):
         with open(".env", "r") as f:
@@ -14,39 +15,55 @@ def load_env_fallback():
                     parts = line.split("=", 1)
                     key = parts[0].strip()
                     value = parts[1].strip()
-                    # Strip quotes if present
                     value = value.strip("'").strip('"')
                     os.environ[key] = value
 
-# Try to use dotenv, fallback to manual parse if not installed
 try:
     from dotenv import load_dotenv
     load_dotenv()
 except ImportError:
     load_env_fallback()
 
-# Now you fetch the variable from the environment
 API_KEY = os.getenv("API_KEY")
 
+def encode_image(image_path):
+    with open(image_path, "rb") as image_file:
+        return base64.b64encode(image_file.read()).decode('utf-8')
+
 def main():
-    parser = argparse.ArgumentParser(description="Generate an image using Gemini models")
+    parser = argparse.ArgumentParser(description="Generate an image using Gemini models with reference images")
     parser.add_argument("--prompt", type=str, required=True, help="Image prompt")
-    parser.add_argument("--output", type=str, required=True, help="Output file path (e.g., image.png or image.jpg)")
-    parser.add_argument("--model", type=str, default="nano-banana-pro-preview", help="Model name (e.g., nano-banana-pro-preview)")
+    parser.add_argument("--output", type=str, required=True, help="Output file path")
+    parser.add_argument("--model", type=str, default="nano-banana-pro-preview", help="Model name")
+    parser.add_argument("--refs", type=str, help="Comma separated paths to reference images")
     
     args = parser.parse_args()
 
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{args.model}:generateContent?key={API_KEY}"
+    
+    parts = []
+    
+    if args.refs:
+        ref_paths = args.refs.split(",")
+        for path in ref_paths:
+            path = path.strip()
+            if os.path.exists(path):
+                mime_type = "image/png" if path.endswith(".png") else "image/jpeg"
+                parts.append({
+                    "inlineData": {
+                        "mimeType": mime_type,
+                        "data": encode_image(path)
+                    }
+                })
+    
+    parts.append({"text": args.prompt})
+
     data = {
-        "contents": [
-            {
-                "parts": [{"text": args.prompt}]
-            }
-        ]
+        "contents": [{"parts": parts}]
     }
     
-    print(f"Generating image with prompt: {args.prompt} using model {args.model} ...")
-    resp = requests.post(url, json=data)
+    print(f"Generating image using model {args.model} with {len(parts)-1 if args.refs else 0} refs...")
+    resp = requests.post(url, json=data, timeout=180)
     
     if resp.status_code != 200:
         print(f"Error: {resp.text}", file=sys.stderr)
@@ -58,10 +75,10 @@ def main():
         print("Error: No candidates returned.", file=sys.stderr)
         sys.exit(1)
         
-    parts = candidates[0].get("content", {}).get("parts", [])
+    res_parts = candidates[0].get("content", {}).get("parts", [])
     
     img_data = None
-    for part in parts:
+    for part in res_parts:
         if "inlineData" in part:
             b64_data = part["inlineData"].get("data")
             img_data = base64.b64decode(b64_data)
