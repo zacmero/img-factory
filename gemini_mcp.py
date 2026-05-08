@@ -4,10 +4,25 @@ import json
 import requests
 import base64
 import os
-from dotenv import load_dotenv
+def load_env_fallback():
+    if os.path.exists(".env"):
+        with open(".env", "r") as f:
+            for line in f:
+                line = line.strip()
+                if line and "=" in line and not line.startswith("#"):
+                    parts = line.split("=", 1)
+                    key = parts[0].strip()
+                    value = parts[1].strip()
+                    # Strip quotes if present
+                    value = value.strip("'").strip('"')
+                    os.environ[key] = value
 
-# This look for the .env file and loads the variables
-load_dotenv() 
+# Try to use dotenv, fallback to manual parse if not installed
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    load_env_fallback()
 
 # Now you fetch the variable from the environment
 API_KEY = os.getenv("API_KEY")
