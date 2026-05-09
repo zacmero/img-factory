@@ -36,6 +36,8 @@ def main():
     parser.add_argument("--output", type=str, required=True, help="Output file path")
     parser.add_argument("--model", type=str, default="nano-banana-pro-preview", help="Model name")
     parser.add_argument("--refs", type=str, help="Comma separated paths to reference images")
+    parser.add_argument("--aspect", type=str, help="Aspect ratio (e.g., '1:1', '16:9')")
+    parser.add_argument("--res", type=str, help="Resolution (e.g., '1K', '2K', '4K')")
     
     args = parser.parse_args()
 
@@ -59,11 +61,27 @@ def main():
     parts.append({"text": args.prompt})
 
     data = {
-        "contents": [{"parts": parts}]
+        "contents": [{"parts": parts}],
+        "generationConfig": {
+            "imageConfig": {}
+        }
     }
     
+    if args.aspect:
+        data["generationConfig"]["imageConfig"]["aspectRatio"] = args.aspect
+    if args.res:
+        data["generationConfig"]["imageConfig"]["imageSize"] = args.res
+
+    # Remove imageConfig if empty to avoid potential API issues
+    if not data["generationConfig"]["imageConfig"]:
+        del data["generationConfig"]["imageConfig"]
+    if not data["generationConfig"]:
+        del data["generationConfig"]
+    
     print(f"Generating image using model {args.model} with {len(parts)-1 if args.refs else 0} refs...")
-    resp = requests.post(url, json=data, timeout=180)
+    print(f"Config: {data.get('generationConfig', {})}")
+    
+    resp = requests.post(url, json=data, timeout=300)
     
     if resp.status_code != 200:
         print(f"Error: {resp.text}", file=sys.stderr)
