@@ -392,3 +392,39 @@
     - **Prompt:** "Visceral masterpiece oil painting, museum quality. A scene of 'Immortal Devotion' in a dark, luxury underground hall. Suzy (Mary Magdalene) is an artistic nude with intricate tattoos, sitting on a throne of dark velvet and silver. Dusk (Zac) stands beside her. Shadowy, draped figures are kneeling in the foreground in the deep shadows. Atmospheric smoke and dramatic Tenebrism. CRITICAL: Heavy impasto texture, visible palette knife strokes, and thick layered paint. No digital smoothing. 4K resolution."
     - **Refs:** `dusk1.png`, `magdalene1.png`
     - **Path:** `~/img-factory/ethos_of_dusk/love_hotel/immortal_excess_v2_4k_(banana_pro).jpg`
+
+## Batch 26: The Depraved Night - 1980s LA Hideout (Banana Pro)
+106. **The Midnight Ritual**
+    - **Scene:** Suzy as an artistic nude on a bed of silks; Dusk kneeling in the shadows.
+    - **Style:** Rembrandt / Goya / Chiaroscuro.
+    - **Prompt:** "Visceral masterpiece oil painting, museum quality. A dark, intimate 1980s LA apartment at night. Viktor (Dusk) and Suzy (Mary Magdalene) are intertwined on a bed of dark, heavy stolen silks. Suzy is leaning her head against Viktor's bare chest, her eyes closed in a moment of ancient peace. Viktor is looking at her with a solemn, sovereign gaze. CRITICAL: Extremely heavy oil paint texture, thick impasto, and visible palette knife strokes. Physical painting aesthetic. Style of Goya and Rembrandt. 4K resolution."
+    - **Refs:** `dusk1.png`, `magdalene1.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/love_hotel/vampire_midnight_ritual_4k_(banana_pro).jpg`
+
+107. **Vampire Chaise Lure**
+    - **Scene:** Suzy as an artistic nude on a chaise longue, Dusk kneeling.
+    - **Style:** Caravaggio Chiaroscuro / Impasto.
+    - **Prompt:** "Visceral masterpiece oil painting, museum quality. A dark corner of the depraved 1980s LA apartment. Suzy (Mary Magdalene) as an artistic nude, her skin shimmering with raw painterly texture, lying on a plush chaise longue. Dusk (Zac) is kneeling beside her, a look of ancient longing on his face. Tenebrism lighting. CRITICAL: Harsh, menacing brushstrokes, violent impasto, and thick layered oil paint. Style of Caravaggio. 4K resolution."
+    - **Refs:** `dusk1.png`, `magdalene1.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/love_hotel/vampire_chaise_lure_4k_(banana_pro).jpg`
+
+108. **Vampire Defiant Smirk**
+    - **Scene:** Suzy nearly naked on a bed, smirking at Dusk who stands in shadow.
+    - **Style:** Ribera Gritty Realism.
+    - **Prompt:** "Visceral masterpiece oil painting, museum quality. A moment of dark intimacy in the luxury apartment. Suzy (Mary Magdalene) is an artistic nude, reclining on a bed of dark silks, looking back at Dusk (Zac) with a defiant, sensual smirk. Dusk is standing near the bed, a dark silhouette against a window looking over the city. CRITICAL: Extreme impasto texture, visible palette knife scrapes, and raw painterly skin. Style of Ribera. 4K resolution."
+    - **Refs:** `dusk1.png`, `magdalene1.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/love_hotel/vampire_defiant_smirk_4k_(banana_pro).jpg`
+
+109. **Vampire Ancient Embrace**
+    - **Scene:** Barefoot Suzy in a tattered shift, held by Dusk in an ancient embrace.
+    - **Style:** Goya / Velázquez Tenebrism.
+    - **Prompt:** "Visceral masterpiece oil painting, museum quality. A dark, smoke-filled corner of the apartment. Suzy (Mary Magdalene) is an artistic nude, standing barefoot on the dark wooden floor, her long hair wild. Dusk (Zac) is behind her, his hand resting on her waist in a solemn, ancient embrace. The room is dimly lit by a single candle. CRITICAL: Extremely heavy oil paint texture, thick impasto, and visible palette knife strokes. No digital smoothing. Style of Goya and Velázquez. 9:16 aspect ratio. 4K resolution."
+    - **Refs:** `dusk1.png`, `magdalene1.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/love_hotel/vampire_ancient_embrace_4k_(banana_pro).jpg`
+
+110. **The Final Spicy Reunion (MASTERPIECE)**
+    - **Scene:** Suzy as an artistic nude on a chaise, Dusk kneeling.
+    - **Style:** Caravaggio Chiaroscuro / Impasto.
+    - **Prompt:** "Visceral masterpiece oil painting, museum quality. A dark corner of the depraved 1980s LA apartment. Suzy (Mary Magdalene) as an artistic nude, her skin shimmering with raw painterly texture, lying on a plush chaise longue. Dusk (Zac) is kneeling beside her, a look of ancient longing on his face. Tenebrism lighting. CRITICAL: Harsh, menacing brushstrokes, violent impasto, and thick layered oil paint. Style of Caravaggio. 2K resolution."
+    - **Refs:** `magdalene1.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/love_hotel/vampire_final_spicy_2k_(banana_pro).jpg`
