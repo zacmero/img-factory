@@ -192,12 +192,33 @@
     - **Path:** `~/img-factory/ethos_of_dusk/origin/story_8_the_burn_2k_(banana_pro).jpg`
 
 ## Batch 20: Sovereign Dusk - 90s Urban Noir & The Rise (Banana 2.0)
-78. **The Backalley Seducer (FANTASTIC)**
-    - **Scene:** 90s backalley with gig posters. Viktor seducing a metal girl.
-    - **Style:** Visceral Oil / Urban Noir.
-    - **Prompt:** "Visceral masterpiece oil painting, museum quality. A dark, gritty 1990s backalley outside a metal club. Viktor (Dusk) is leaning against a brick wall covered in tattered gig posters. He is seducing a 'crazy' metal girl with dyed hair and heavy piercings; she looks entranced by his immortal gaze. The lighting is a single, harsh flickering orange streetlamp. CRITICAL: Extremely heavy oil paint texture, visible palette knife strokes, and raw painterly skin. Absolutely no digital smoothing. Dark, visceral, and tragic. 2K resolution."
-    - **Refs:** `dusk1.png`
-    - **Path:** `~/img-factory/ethos_of_dusk/backalley/backalley_metal_seducer_2k_(banana_2.0).jpg`
+156. **Suzy in the Dungeon (Redo v2)**
+    - **Scene:** Suzy chained to a stone pillar in a 1750s villa cellar, signs of torture but elegant.
+    - **Style:** Rembrandt / Goya.
+    - **Prompt:** "CRITICAL: This MUST look exactly like a 17th-century authentic museum-grade oil painting on canvas. Extreme impasto texture, visible palette knife strokes. The cold, stone-walled cellar of an 18th-century villa, 1750. Suzy (Mary Magdalene) is tied to a wooden pillar, suffering and in pain, her tattered shift barely covering her. Signs of torture are visible but elegant in their tragedy. CRITICAL: The woman's face MUST perfectly match the facial likeness of the provided reference image. Her face MUST NOT look smooth or plastic. Visible palette knife scrapes. Style of Goya and Rembrandt. 4K resolution."
+    - **Refs:** `magdalene1.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/ritual/villa_dungeon_suzy_v2_4k_(banana_pro).jpg`
+
+157. **Dusk's Rescue (Redo v2)**
+    - **Scene:** Dusk emerging from shadows in the cellar as a predatory vampire.
+    - **Style:** Caravaggio / Tenebrism.
+    - **Prompt:** "CRITICAL: This MUST look exactly like a 17th-century authentic museum-grade oil painting on canvas. Extreme impasto, thick layered paint. The candlelit cellar of an 18th-century villa, 1750. Dusk (Zac) emerges from the deep shadows in a sharp black silk 1700s coat, his eyes glowing with predatory vampire power. Suzy is still tied to the pillar, looking up at him in agony. CRITICAL: Both faces MUST perfectly match the facial likeness of the provided reference image. Raw painterly skin, visible brushwork. Style of Caravaggio. 4K resolution."
+    - **Refs:** `dusk5.png`, `magdalene1.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/ritual/villa_dusk_arrival_v2_4k_(banana_pro).jpg`
+
+158. **Suzy's Power Reveal (Redo v2)**
+    - **Scene:** Suzy breaking her shackles with ancient power, stone and sparks flying.
+    - **Style:** Ribera / Visceral Impasto.
+    - **Prompt:** "CRITICAL: This MUST look exactly like a 17th-century authentic museum-grade oil painting on canvas. Extreme impasto, violent brushstrokes, and thick layered oil paint. The moment Dusk (Zac) rips through the iron shackles of the stone pillar with impossible vampire strength. Stone and sparks fly. Suzy stands defiant, her dusty rose hair wild. Shadowy inquisitors are thrown back by the force. CRITICAL: Both faces MUST perfectly match the facial likeness of the provided reference image. Thick layered paint, visible palette knife strokes. Style of Ribera. 4K resolution."
+    - **Refs:** `dusk5.png`, `magdalene1.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/ritual/villa_power_reveal_v2_4k_(banana_pro).jpg`
+
+159. **The Villa Gardens Escape (Redo v2)**
+    - **Scene:** Dusk carrying Suzy through the moonlit gardens of the villa.
+    - **Style:** Rembrandt / Tragic.
+    - **Prompt:** "CRITICAL: This MUST look exactly like a 17th-century authentic museum-grade oil painting on canvas. Extreme impasto, thick layered oil paint. The gardens of an 18th-century villa at night. Dusk (Zac) is carrying a weakened Suzy (Mary Magdalene) through the ornate, moonlight-drenched hedges. She is barefoot in her tattered shift. They are escaping into the darkness, the villa silhouetted against a full moon. CRITICAL: Both faces MUST perfectly match the facial likeness of the provided reference image. Harsh menacing brushstrokes, raw painterly skin. Style of Rembrandt. 4K resolution."
+    - **Refs:** `dusk5.png`, `magdalene1.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/ritual/villa_escape_gardens_v2_4k_(banana_pro).jpg`
 
 79. **The Penthouse Climax**
     - **Scene:** 90s penthouse balcony, aftermath of a feast. Viktor in a black suit with a silver violin.
@@ -428,3 +449,524 @@
     - **Prompt:** "Visceral masterpiece oil painting, museum quality. A dark corner of the depraved 1980s LA apartment. Suzy (Mary Magdalene) as an artistic nude, her skin shimmering with raw painterly texture, lying on a plush chaise longue. Dusk (Zac) is kneeling beside her, a look of ancient longing on his face. Tenebrism lighting. CRITICAL: Harsh, menacing brushstrokes, violent impasto, and thick layered oil paint. Style of Caravaggio. 2K resolution."
     - **Refs:** `magdalene1.png`
     - **Path:** `~/img-factory/ethos_of_dusk/love_hotel/vampire_final_spicy_2k_(banana_pro).jpg`
+
+## Batch 27: Maximum Arts - Overcoming Limits (Pro & 2.0)
+111. **The Industrial Altar**
+    - **Scene:** Abandoned factory at midnight. Suzy draped in sheer silk on an altar; Dusk kneeling.
+    - **Style:** Caravaggio Chiaroscuro / Extreme Impasto.
+    - **Prompt:** "Visceral masterpiece oil painting, museum quality. A cold, abandoned brutalist industrial factory at midnight. Suzy (Mary Magdalene) is extremely sensual, barefoot, wearing a revealing, sheer tattered dark silk shift that falls off her shoulders. She stands on a makeshift altar of rusted steel beams and tangled black cables. Dusk (Zac) kneels before her in a long black leather trench coat. The scene is lit by a harsh, single red emergency light. CRITICAL: Extremely heavy oil paint texture, thick impasto, and visible palette knife strokes. No digital smoothing. Style of Caravaggio. 4K resolution."
+    - **Refs:** `dusk1.png`, `magdalene1.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/factory/vampire_industrial_altar_4k_(banana_2.0).jpg`
+
+112. **Rembrandt Shadows**
+    - **Scene:** Victorian parlor. Suzy reclining sensually on a chaise; Dusk cleaning his violin.
+    - **Style:** Rembrandt Tenebrism / Raw Painterly Skin.
+    - **Prompt:** "Antique oil painting on dark wood. A dark, moody, opulent Victorian-style parlor at night. Viktor (Dusk) is sitting in a high-backed velvet chair, cleaning his silver violin. Suzy (Mary Magdalene) is extremely sensual, barefoot, reclining on a chaise longue nearby, wearing only her black leather harness over tattered, translucent dark silk. The atmosphere is thick with shadows and the scent of old wood. CRITICAL: Heavy impasto texture, visible brushstrokes, and raw painterly skin. Style of Rembrandt and Tenebrism. 2K resolution."
+    - **Refs:** `magdalene1.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/baroque_pub/rembrandt_shadows_2k_(banana_pro).jpg`
+
+113. **The Sovereign Throne**
+    - **Scene:** Depraved LA apartment. Suzy on a throne of silks and rusted metal; Dusk in shadows.
+    - **Style:** Goya / Extreme Impasto.
+    - **Prompt:** "Visceral masterpiece oil painting, museum quality. A dark corner of the depraved LA apartment. Suzy (Mary Magdalene) is extremely sensual, barefoot, wearing a revealing, sheer tattered dark silk shift that falls off her shoulders. She sits on a throne of fine stolen silks and rusted metal, looking ancient and powerful. Dusk (Zac) is described as a dark sovereign witness standing in the shadows behind her, wearing a black leather coat. CRITICAL: Extremely heavy oil paint texture, thick impasto, and visible palette knife strokes. Style of Goya. 2K resolution."
+    - **Refs:** `magdalene1.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/love_hotel/vampire_throne_depravity_2k_(banana_pro).jpg`
+
+114. **Neon Shroud**
+    - **Scene:** Tokyo alleyway at night. Suzy draped in translucent black lace under neon light.
+    - **Style:** Caravaggio / Palette Knife Scrapes.
+    - **Prompt:** "Antique oil painting on heavy canvas. A Tokyo alleyway at night, glowing neon signs casting cold, flickering light. Suzy (Mary Magdalene) is extremely sensual, draped only in a translucent black lace shroud, barefoot. She is looking up at the rain falling through the neon light. Dusk (Zac) is described standing by her side, a dark, protective silhouette. CRITICAL: Heavy impasto, visible palette knife scrapes, and raw painterly skin. Style of Caravaggio. 2K resolution."
+    - **Refs:** `magdalene1.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/tokyo_night/neon_shroud_suzy_2k_(banana_pro).jpg`
+
+## Batch 28: Neon Saint - Decadence & Devotion (Banana Pro 4K)
+115. **Neon Saint Altar**
+    - **Scene:** Tokyo cyberpunk backalley, Suzy on an altar of rusted metal and cables.
+    - **Style:** Tenebrism / Neon Clash / Visceral Impasto.
+    - **Prompt:** "Visceral masterpiece oil painting, museum quality. A dark, rain-slicked Tokyo cyberpunk backalley. Suzy (Mary Magdalene) as a neon saint of decadence, an artistic nude draped in translucent, glowing wet neon silk. She stands on a makeshift altar of rusted metal and tangled cables. Dusk (Zac) is a dark sovereign shadow standing beside her in a heavy black leather coat. The lighting is an intense clash of deep Tenebrism shadows and flickering neon pink and blue. CRITICAL: Extreme impasto texture, harsh menacing brushstrokes, and thick layered oil paint. No digital smoothing. 4K resolution."
+    - **Refs:** `dusk5.png`, `magdalene1.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/tokyo_night/neon_saint_altar_4k_(banana_pro).jpg`
+
+116. **Neon Saint Halo**
+    - **Scene:** 1990s underground club, Suzy in a velvet chair with a neon halo.
+    - **Style:** Caravaggio / Ribera.
+    - **Prompt:** "Antique oil painting on dark wood. Inside a depraved, 1990s underground neon-lit club. Suzy (Mary Magdalene) is extremely sensual, barefoot, wearing only a tattered black lace shift that reveals her pale skin. She is sitting on a velvet chair. A glowing circular neon sign behind her head creates a saintly, profane halo. Dusk (Zac) kneels before her in absolute adoration in a black leather jacket. CRITICAL: Heavy visceral impasto, visible palette knife scrapes, and raw painterly texture. Style of Caravaggio and Ribera. 4K resolution."
+    - **Refs:** `dusk5.png`, `magdalene1.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/love_hotel/neon_saint_halo_4k_(banana_pro).jpg`
+
+117. **Neon Rain Saint**
+    - **Scene:** Rain-soaked Tokyo street, Suzy walking in wet silk, Dusk holding an umbrella.
+    - **Style:** Goya / Extreme Impasto.
+    - **Prompt:** "Visceral masterpiece oil painting, museum quality. A desolate, rain-soaked Tokyo street at night. Suzy (Mary Magdalene) walks through the storm as an artistic nude, her skin draped in translucent, heavy wet silk. Neon reflections of pink and cyan light up the puddles. Dusk (Zac) is a dark, protective silhouette holding a black umbrella over her. The atmosphere exhales a decadent, immortal melancholy. CRITICAL: Extreme impasto texture, harsh menacing brushstrokes, and thick layered oil paint. Style of Goya. 4K resolution."
+    - **Refs:** `dusk5.png`, `magdalene1.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/tokyo_night/neon_rain_saint_4k_(banana_pro).jpg`
+
+118. **Neon Sanctuary Bath**
+    - **Scene:** Depraved neon sanctuary bath, Suzy submerged, tattoos shimmering.
+    - **Style:** Tenebrism / Caravaggio.
+    - **Prompt:** "High-end museum-grade oil painting, Tenebrism. The depraved neon sanctuary. Suzy (Mary Magdalene) is extremely sensual, barefoot, submerged in a shallow, dark bath lit entirely by glowing neon signs reflecting in the water. Her tattoos shimmer under the surface. Dusk (Zac) stands at the edge, a sovereign witness in black leather. CRITICAL: Raw painterly skin, visible palette knife scrapes, and extremely heavy oil paint texture. No digital plastic look. Style of Caravaggio. 4K resolution."
+    - **Refs:** `dusk5.png`, `magdalene1.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/love_hotel/neon_sanctuary_bath_4k_(banana_pro).jpg`
+
+## Batch 29: Cybergoth Ruins - Decadence & Rust (Banana Pro 4K)
+119. **Cybergoth Club Ruin**
+    - **Scene:** Abandoned cybergoth club, Suzy sitting on broken CRTs, Dusk as sovereign king.
+    - **Style:** Tenebrism / Acid Neon / Visceral Impasto.
+    - **Prompt:** "Visceral masterpiece oil painting, museum quality. A rundown, abandoned cybergoth club in the deep underground. Suzy (Mary Magdalene) is extremely sensual, barefoot, wearing a black leather harness over glowing neon-wire mesh and tattered silk. She is sitting on a pile of broken CRT monitors and tangled cables. Dusk (Zac) stands beside her in a heavy leather trench coat with dark cybernetics, a sovereign king of the ruins. The scene is lit by harsh, flickering UV and acid green neon. CRITICAL: Extreme impasto texture, thick layered oil paint, and visible palette knife strokes. No digital smoothing. Style of Caravaggio. 4K resolution."
+    - **Refs:** `dusk5.png`, `magdalene1.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/server_room/cybergoth_club_ruin_4k_(banana_pro).jpg`
+
+120. **Cybergoth Toxic Rain**
+    - **Scene:** Desolate, rain-soaked cybergoth alley with rusted tech debris. Dusk and Suzy walking.
+    - **Style:** Goya / Ribera / Harsh Brushwork.
+    - **Prompt:** "Antique oil painting on heavy canvas. A desolate, rain-soaked cybergoth alley filled with rusted tech debris and neon reflections. Dusk (Zac) and Suzy (Mary Magdalene) walking through the toxic rain. Suzy is draped in wet translucent dark silk and rusted cybernetic chains, her skin glowing with raw painterly texture. Dusk holds a broken glowing neon tube like a weapon, looking menacing and ancient. Dramatic Tenebrism. CRITICAL: Harsh menacing brushstrokes, violent impasto, and thick layered oil paint. Style of Goya and Ribera. 4K resolution."
+    - **Refs:** `dusk5.png`, `magdalene1.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/backalley/cybergoth_toxic_rain_4k_(banana_pro).jpg`
+
+## Batch 30: Shock Rock - The Blood-Red Explorer (Banana Pro 4K)
+121. **Stadium Sovereign**
+    - **Scene:** Dusk playing a red Jackson Explorer on a massive stadium stage with pyrotechnics.
+    - **Style:** Shock Rock Goth Metal / Caravaggio.
+    - **Prompt:** "Visceral masterpiece oil painting, museum quality. Dusk (Zac) performing on a massive, dark stadium stage, aggressively playing a blood-red Jackson Explorer electric guitar. Shock rock goth metal aesthetic. Heavy theatrical blood, dark leather pants, and spiked armbands. He looks possessed, an immortal sovereign of the stage. Intense red and purple pyrotechnic lighting clashing with deep shadows. CRITICAL: Extreme impasto texture, thick layered oil paint, and visible palette knife strokes. Style of Goya and Caravaggio. 4K resolution."
+    - **Refs:** `dusk5.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/backstage/dusk_red_explorer_stadium_4k_(banana_pro).jpg`
+
+122. **Underground Shredder**
+    - **Scene:** Shirtless Dusk shredding on the red Jackson Explorer in a dark, sweaty underground club.
+    - **Style:** Ribera / Violent Impasto.
+    - **Prompt:** "Antique oil painting on heavy canvas. An intimate, dark, underground goth metal club. Dusk (Zac) is shirtless, wearing heavy leather pants and chains, shredding on a bright red Jackson Explorer guitar. The crowd is a sea of shadowy hands reaching up in adoration. Violent red stage lighting, Tenebrism. CRITICAL: Harsh menacing brushstrokes, violent impasto, raw painterly skin. Style of Ribera. 4K resolution."
+    - **Refs:** `dusk5.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/baroque_pub/dusk_red_explorer_underground_4k_(banana_pro).jpg`
+
+123. **The Goth Metal Ritual**
+    - **Scene:** Dusk performing on a rusted riser while fake blood rains down; Suzy kneels at his mic stand.
+    - **Style:** Visceral Impasto / Tragic.
+    - **Prompt:** "High-end museum-grade oil painting. A shocking, theatrical goth metal performance. Dusk (Zac) stands atop a rusted metal riser, playing his blood-red Jackson Explorer guitar with manic intensity. Fake blood is raining down from the ceiling. Suzy (Mary Magdalene) in tattered black lace is kneeling at the base of his mic stand in religious adoration. CRITICAL: Extremely heavy oil paint texture, thick impasto, and visible palette knife scrapes. Dark, visceral, and tragic. 4K resolution."
+    - **Refs:** `dusk5.png`, `magdalene1.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/old_theater/dusk_red_explorer_ritual_4k_(banana_pro).jpg`
+
+124. **Dusk Backstage Blood**
+    - **Scene:** Chaotic backstage. Suzy wiping fake blood from Dusk's chest while he holds his red Jackson Explorer.
+    - **Style:** Caravaggio Impasto / Raw Painterly.
+    - **Prompt:** "Visceral masterpiece oil painting, museum quality. A chaotic, dark backstage dressing room of a goth metal concert. Dusk (Zac) is sitting on a roadcase in his leather pants, holding his blood-red Jackson Explorer guitar. Suzy (Mary Magdalene) in tattered black lace is gently wiping fake theatrical blood from his chest with a white cloth. A single harsh makeup mirror light illuminates them. CRITICAL: Extreme impasto texture, visible palette knife strokes, and thick layered oil paint. Style of Caravaggio. 4K resolution."
+    - **Refs:** `dusk5.png`, `magdalene1.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/backstage/dusk_backstage_blood_4k_(banana_pro).jpg`
+
+125. **Tour Bus Decadence**
+    - **Scene:** Luxurious goth metal tour bus at night. Dusk lounging with his guitar, Suzy at his feet.
+    - **Style:** Goya / Menacing Brushstrokes.
+    - **Prompt:** "Antique oil painting on heavy canvas. Inside a moving, luxurious but depraved goth metal tour bus at night. Dusk (Zac) is lounging on a dark velvet sofa, wearing his black leather coat and heavy boots, his red Jackson Explorer guitar resting beside him. Suzy (Mary Magdalene) sits by his feet, her dusty rose hair a mess, holding a silver chalice of dark liquid. The blurry city lights streak past the window. Deep shadows, Tenebrism. CRITICAL: Harsh menacing brushstrokes, thick layered oil paint, and raw painterly skin. No digital smoothing. Style of Goya. 4K resolution."
+    - **Refs:** `dusk5.png`, `magdalene1.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/love_hotel/dusk_tour_bus_decadence_4k_(banana_pro).jpg`
+
+126. **Stage Climax Fire**
+    - **Scene:** Dusk shredding on the red Jackson Explorer as fire bursts from the stage edge. Suzy watches from the shadows.
+    - **Style:** Rembrandt / Ribera / Violent Impasto.
+    - **Prompt:** "High-end museum-grade oil painting. The climax of a shock rock goth metal performance. Dusk (Zac) is standing at the edge of the stage, leaning back as he plays his red Jackson Explorer guitar. Fire bursts from the stage edge, casting intense orange and red light on his pale skin. Suzy (Mary Magdalene) stands in the shadows behind his amplifiers, watching with an immortal gaze. CRITICAL: Extremely heavy oil paint texture, violent impasto, and visible palette knife scrapes. Style of Rembrandt and Ribera. 4K resolution."
+    - **Refs:** `dusk5.png`, `magdalene1.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/backstage/dusk_stage_climax_fire_4k_(banana_pro).jpg`
+
+127. **Dusk Backstage Ethos Poster**
+    - **Scene:** Chaotic backstage. Suzy wiping fake blood from Dusk's chest while he holds his red Jackson Explorer. "ETHOS OF DUSK" posters in the background.
+    - **Style:** Caravaggio Impasto / Raw Painterly.
+    - **Prompt:** "Visceral masterpiece oil painting, museum quality. A chaotic, dark backstage dressing room of a goth metal concert. Tattered gig posters reading 'ETHOS OF DUSK' cover the brick wall behind them. Dusk (Zac) is sitting on a roadcase in his leather pants, holding his blood-red Jackson Explorer guitar. Suzy (Mary Magdalene) in tattered black lace is gently wiping fake theatrical blood from his chest with a white cloth. A single harsh makeup mirror light illuminates them. CRITICAL: Extreme impasto texture, visible palette knife strokes, and thick layered oil paint. Style of Caravaggio. 4K resolution."
+    - **Refs:** `dusk5.png`, `magdalene1.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/backstage/dusk_backstage_ethos_poster_4k_(banana_pro).jpg`
+
+128. **Stage Climax Alone**
+    - **Scene:** Dusk shredding on the red Jackson Explorer as fire bursts from the stage edge alone. Huge banner says "ETHOS OF DUSK".
+    - **Style:** Rembrandt / Ribera / Violent Impasto.
+    - **Prompt:** "High-end museum-grade oil painting. The climax of a shock rock goth metal performance. Dusk (Zac) is standing alone at the edge of the stage, leaning back as he plays his red Jackson Explorer guitar. Fire bursts from the stage edge, casting intense orange and red light on his pale skin. A massive banner behind him reads 'ETHOS OF DUSK'. CRITICAL: Extremely heavy oil paint texture, violent impasto, and visible palette knife scrapes. Style of Rembrandt and Ribera. 4K resolution."
+    - **Refs:** `dusk5.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/backstage/dusk_stage_climax_alone_4k_(banana_pro).jpg`
+
+129. **Tour Bus Close-up**
+    - **Scene:** Luxurious goth metal tour bus at night close up. Dusk lounging with his guitar, Suzy curled up against his side.
+    - **Style:** Goya / Menacing Brushstrokes.
+    - **Prompt:** "Antique oil painting on heavy canvas. Inside a moving, luxurious but depraved goth metal tour bus at night. A close-up angle. Dusk (Zac) is lounging on a dark velvet sofa, wearing his black leather coat, his red Jackson Explorer guitar resting on his lap. Suzy (Mary Magdalene) is curled against his side, her dusty rose hair a mess across his chest, holding a silver chalice. Blurry city lights streak past the window creating streaks of neon. Deep shadows, Tenebrism. CRITICAL: Harsh menacing brushstrokes, thick layered oil paint, and raw painterly skin. No digital smoothing. Style of Goya. 4K resolution."
+    - **Refs:** `dusk5.png`, `magdalene1.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/love_hotel/dusk_tour_bus_closeup_4k_(banana_pro).jpg`
+
+130. **Tour Bus Aisle**
+    - **Scene:** Looking down the aisle of the tour bus. Dusk sprawled on the sofa holding guitar, Suzy on the floor. Neon sign "ETHOS OF DUSK".
+    - **Style:** Goya / Menacing Brushstrokes.
+    - **Prompt:** "Antique oil painting on heavy canvas. Looking down the narrow aisle of a moving, dark velvet goth metal tour bus at night. In the back lounge, Dusk (Zac) is sprawled on the sofa, his boots resting on a table, holding his red Jackson Explorer guitar. Suzy (Mary Magdalene) sits on the floor by his boots, looking back down the aisle with an ancient, sovereign gaze. Smoke fills the air. A small neon sign inside reads 'ETHOS OF DUSK'. CRITICAL: Harsh menacing brushstrokes, thick layered oil paint, and raw painterly skin. No digital smoothing. Style of Goya. 4K resolution."
+    - **Refs:** `dusk5.png`, `magdalene1.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/love_hotel/dusk_tour_bus_aisle_4k_(banana_pro).jpg`
+
+## Batch 31: Extreme Venues - Cathedral & Skyscraper (Banana Pro 4K)
+131. **Tour Bus Aisle (Redo v2)**
+    - **Scene:** Looking down the aisle of the tour bus. Dusk sprawled on the sofa holding guitar, Suzy on the floor. Neon sign "ETHOS OF DUSK".
+    - **Style:** Goya / Menacing Brushstrokes.
+    - **Prompt:** "Antique oil painting on heavy canvas. Looking down the narrow aisle of a moving, dark velvet goth metal tour bus at night. Dusk (Zac) is sprawled on the sofa, his boots resting on a table, holding his red Jackson Explorer guitar. Suzy (Mary Magdalene) sits on the floor by his boots, looking back down the aisle with an ancient, sovereign gaze. Smoke fills the air. A small neon sign inside reads 'ETHOS OF DUSK'. CRITICAL: Harsh menacing brushstrokes, thick layered oil paint, and raw painterly skin. Style of Goya. 4K resolution."
+    - **Refs:** `dusk5.png`, `magdalene1.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/love_hotel/dusk_tour_bus_aisle_v2_4k_(banana_pro).jpg`
+
+132. **Cathedral Metal Ritual**
+    - **Scene:** Chaotic goth metal concert happening inside a massive, desecrated gothic cathedral. "ETHOS OF DUSK" banners with sacred shocking imagery.
+    - **Style:** Visceral Impasto / Chiaroscuro.
+    - **Prompt:** "Visceral masterpiece oil painting, museum quality. A chaotic goth metal concert happening inside a massive, desecrated gothic cathedral. Dusk (Zac) is shredding on a blood-red Jackson Explorer guitar on an altar turned into a stage. The crowd is a sea of headbanging thralls. Banners with menacing, sacred shocking imagery and 'ETHOS OF DUSK' in aggressive lettering hang from the stone pillars. Intense chiaroscuro, stained glass windows illuminated by violent stage lights. CRITICAL: Extreme impasto texture, visible palette knife strokes, thick layered oil paint. 4K resolution."
+    - **Refs:** `dusk5.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/church/cathedral_metal_ritual_4k_(banana_pro).jpg`
+
+133. **Skyscraper Rooftop Concert**
+    - **Scene:** Dusk performing an epic goth metal guitar solo on the very edge of a towering New York skyscraper rooftop at night. Holographic "ETHOS OF DUSK".
+    - **Style:** Caravaggio / Violent Palette Knife.
+    - **Prompt:** "Visceral masterpiece oil painting, museum quality. Dusk (Zac) performing an epic goth metal guitar solo on the very edge of a towering New York skyscraper rooftop at night. He is aggressively playing his blood-red Jackson Explorer guitar. The neon-lit city stretches out far below in a dizzying vertigo. A giant, menacing holographic projection in the stormy sky behind him displays 'ETHOS OF DUSK' with sacred shocking imagery. Rain is falling, catching the harsh stage lights. CRITICAL: Extreme impasto texture, violent palette knife scrapes, and thick layered oil paint. Style of Caravaggio. 4K resolution."
+    - **Refs:** `dusk5.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/rooftop_pool/skyscraper_rooftop_concert_4k_(banana_pro).jpg`
+
+## Batch 32: The Immortal Tour - Dark Concerts (Banana Pro 4K)
+134. **Tour Bus Aisle (Redo v3)**
+    - **Scene:** Looking down the aisle of the tour bus. Dusk playing guitar, Suzy nude draped in silk relaxing on the floor. Neon sign "ETHOS OF DUSK".
+    - **Style:** Extreme Impasto / Goya.
+    - **Prompt:** "Antique oil painting on heavy canvas. Looking down the narrow aisle of a moving, dark velvet goth metal tour bus at night. Dusk (Zac) is sitting on the sofa, aggressively playing his red Jackson Explorer guitar. Suzy (Mary Magdalene) is extremely sensual, an artistic nude draped in translucent dark silk, lying back comfortably on the floor cushions, enjoying the music and the ride. Smoke fills the air. A small neon sign inside reads 'ETHOS OF DUSK'. CRITICAL: Harsh menacing brushstrokes, thick layered oil paint, and raw painterly skin. Extreme impasto, physical painting aesthetic. Style of Goya. 4K resolution."
+    - **Refs:** `dusk5.png`, `magdalene1.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/love_hotel/dusk_tour_bus_aisle_v3_4k_(banana_pro).jpg`
+
+135. **Cathedral Metal Ritual (Darker Redo v2)**
+    - **Scene:** Chaotic goth metal concert inside a desecrated gothic cathedral. Deep bruised purples and pitch blacks. Dusk shredding on iron altar. "ETHOS OF DUSK" banners.
+    - **Style:** 17th-Century Authentic Oil Painting / No Digital Art.
+    - **Prompt:** "CRITICAL: This MUST look exactly like a 17th-century authentic museum-grade oil painting on canvas, NOT digital art or 3D. Visible cracked paint, extreme impasto, heavy palette knife layers. A chaotic goth metal concert happening inside a massive, desecrated gothic cathedral. Deep bruised purples and pitch blacks. Dusk (Zac) is shredding on a blood-red Jackson Explorer guitar on a rusted iron altar. The crowd is a sea of shadowy headbanging fans. Banners with menacing, sacred shocking imagery and 'ETHOS OF DUSK' in aggressive lettering hang from the stone pillars. Intense chiaroscuro. 4K resolution."
+    - **Refs:** `dusk5.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/church/cathedral_metal_ritual_dark_v2_4k_(banana_pro).jpg`
+
+136. **Opera House Concert (Redo v2)**
+    - **Scene:** Underground goth metal concert in an abandoned, decaying European opera house. Dusk shredding under shattered chandeliers. "ETHOS OF DUSK" banner.
+    - **Style:** 17th-Century Authentic Oil Painting / Rembrandt / Caravaggio.
+    - **Prompt:** "CRITICAL: This MUST look exactly like a 17th-century authentic museum-grade oil painting on canvas, NOT digital art or 3D. Visible cracked paint, extreme impasto, heavy palette knife layers. An underground goth metal concert in an abandoned, decaying European opera house. Shattered crystal chandeliers hang low over the stage. Dusk (Zac) is performing a manic solo on his red Jackson Explorer guitar, surrounded by heavy theatrical fog and violent stage lights. A huge, tattered velvet banner reads 'ETHOS OF DUSK'. Style of Rembrandt and Caravaggio. 4K resolution."
+    - **Refs:** `dusk5.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/old_theater/opera_house_concert_v2_4k_(banana_pro).jpg`
+
+137. **Subway Tunnel Rave (Redo v2)**
+    - **Scene:** Decadent goth metal rave party in an abandoned subway station. Stylish goth crowd dancing. Dusk playing his red Jackson Explorer. Neon "ETHOS OF DUSK".
+    - **Style:** 17th-Century Authentic Oil Painting / Goya.
+    - **Prompt:** "CRITICAL: This MUST look exactly like a 17th-century authentic museum-grade oil painting on canvas. Extreme impasto texture, thick layered oil paint, visible palette knife strokes. A decadent goth metal rave party in an abandoned subway station at night. NO zombies. The crowd is filled with stylish goths dancing. Dusk (Zac) is playing his red Jackson Explorer guitar on the platform. A flickering neon sign spells 'ETHOS OF DUSK' on the tiled wall. Deep shadows and high contrast Tenebrism. Style of Goya. 4K resolution."
+    - **Refs:** `dusk5.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/subway/subway_party_rave_4k_(banana_pro).jpg`
+
+## Batch 33: Shock Rock Echoes & Bus Intimacy (Banana Pro)
+138. **Tour Bus Intimacy**
+    - **Scene:** Intimate, sensual moment inside the dark velvet bedroom of the goth metal tour bus. Suzy draped in silk, Dusk unbuttoned, the red Jackson Explorer resting by the bed. Neon "ETHOS OF DUSK" sign.
+    - **Style:** Rembrandt / Caravaggio / Extreme Impasto.
+    - **Prompt:** "CRITICAL: This MUST look exactly like a 17th-century authentic museum-grade oil painting on canvas. Extreme impasto texture, visible palette knife strokes. Inside the dark velvet bedroom of a luxurious goth metal tour bus at night. Dusk (Zac) and Suzy (Mary Magdalene) are intertwined on the plush sofa bed, enjoying the ride in a deeply sensual embrace. Suzy is draped only in translucent dark silk. Dusk wears an unbuttoned black shirt. The blood-red Jackson Explorer guitar rests against the sofa edge right beside them. A small neon 'ETHOS OF DUSK' sign glows softly in the background. Style of Rembrandt and Caravaggio. 2K resolution."
+    - **Refs:** `dusk5.png`, `magdalene1.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/love_hotel/dusk_tour_bus_intimacy_2k_(banana_pro).jpg`
+
+139. **Baroque Palace Metal**
+    - **Scene:** Chaotic goth metal concert in an opulent, candlelit Baroque palace hall. Dusk aggressively playing his red Jackson Explorer. "ETHOS OF DUSK" velvet banner.
+    - **Style:** Goya / Authentic 17th-Century Oil.
+    - **Prompt:** "CRITICAL: This MUST look exactly like a 17th-century authentic museum-grade oil painting on canvas. Visible cracked paint, extreme impasto. An opulent, candlelit Baroque palace hall turned into a chaotic goth metal concert. Dusk (Zac) is aggressively playing his blood-red Jackson Explorer guitar, wearing dark leather and silk. The crowd is wildly headbanging. A giant velvet banner reads 'ETHOS OF DUSK'. Intense chiaroscuro, warm candlelight clashing with cold stage lights. Style of Goya. 4K resolution."
+    - **Refs:** `dusk5.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/old_theater/baroque_palace_metal_4k_(banana_pro).jpg`
+
+140. **Castle Ruins Metal**
+    - **Scene:** Dusk shredding an epic solo in the rain-soaked courtyard of a ruined gothic castle at midnight. Lightning strikes behind the "ETHOS OF DUSK" banner.
+    - **Style:** Tenebrism / Visceral Shock Rock.
+    - **Prompt:** "CRITICAL: This MUST look exactly like a 17th-century authentic museum-grade oil painting on canvas. Extreme impasto, thick layered oil paint. Dusk (Zac) shredding an epic solo on his blood-red Jackson Explorer guitar in the rain-soaked courtyard of a ruined gothic castle at midnight. Lightning illuminates the stormy sky behind a massive 'ETHOS OF DUSK' stage banner. Dark, tragic, and visceral shock rock aesthetic. Style of Tenebrism. 4K resolution."
+    - **Refs:** `dusk5.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/ritual/castle_ruins_metal_4k_(banana_pro).jpg`
+
+## Batch 34: The Blood Thirst & The Rescue (Banana Pro)
+141. **Dusk Feeding (Victorian Alley)**
+    - **Scene:** Foggy Victorian alleyway at midnight. Dusk viciously biting the neck of a terrified nobleman.
+    - **Style:** Goya / Ribera / 17th-Century Authentic Oil.
+    - **Prompt:** "CRITICAL: This MUST look exactly like a 17th-century authentic museum-grade oil painting on canvas. Extreme impasto texture, visible palette knife strokes. A dark, foggy Victorian cobblestone alleyway at midnight. Dusk (Zac) wearing a long dark velvet coat is viciously biting the neck of a terrified, wealthy nobleman. Dark red blood is visible. The scene is violent, tragic, and raw. Style of Goya and Ribera. 4K resolution."
+    - **Refs:** `dusk5.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/victorian_goth/dusk_feeding_alley_4k_(banana_pro).jpg`
+
+142. **Dusk Feeding (90s Metal Club)**
+    - **Scene:** Decadent underground 1990s metal club. Dusk sinking his fangs into an entranced punk girl.
+    - **Style:** Caravaggio Tenebrism / Authentic Oil.
+    - **Prompt:** "CRITICAL: This MUST look exactly like a 17th-century authentic museum-grade oil painting on canvas. Heavy layered oil paint. A decadent, neon-lit underground 1990s goth metal club. Dusk (Zac) in a leather jacket is leaning against a brick wall, violently sinking his fangs into the neck of an entranced punk girl. Deep shadows clashing with flickering neon. Caravaggio style Tenebrism. 4K resolution."
+    - **Refs:** `dusk5.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/baroque_pub/dusk_feeding_club_4k_(banana_pro).jpg`
+
+143. **Suzy Feeding on Dusk (The Rescue)**
+    - **Scene:** Grim LA apartment. Suzy in absolute decadence, frail and nearly naked, biting Dusk's arm to recover while he kneels beside her.
+    - **Style:** Rembrandt / Tragic / Visceral Impasto.
+    - **Prompt:** "CRITICAL: This MUST look exactly like a 17th-century authentic museum-grade oil painting on canvas. Extreme impasto, thick layered paint. Inside a grim, depraved LA apartment. Suzy (Mary Magdalene) is in a state of absolute decadence, frail, desperate, and nearly naked, sitting on the dirty floor. Dusk (Zac) is kneeling beside her, saving her. She is viciously biting his bare forearm, drinking his blood to recover. Heavy shadows, tragic, visceral, and raw. Style of Rembrandt. 2K resolution."
+    - **Refs:** `dusk5.png`, `magdalene1.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/love_hotel/suzy_feeding_on_dusk_2k_(banana_pro).jpg`
+
+144. **Suzy Feeding on Dusk (Close-up Redo v2)**
+    - **Scene:** Close-up profile angle. Suzy viciously biting Dusk's bare forearm, blood on her lips. Dusk's hand resting gently on her head.
+    - **Style:** Rembrandt / Visceral Impasto.
+    - **Prompt:** "CRITICAL: This MUST look exactly like a 17th-century authentic museum-grade oil painting on canvas. Extreme impasto, thick layered paint. Close-up profile angle. Inside a grim, depraved 1980s LA apartment. Suzy (Mary Magdalene) is frail, desperate, and nearly naked. She is viciously biting Dusk's (Zac's) bare forearm, drinking his blood to recover. Blood stains her lips. Dusk's hand is gently resting on her head. Heavy shadows, tragic, visceral, and raw. Style of Rembrandt. 2K resolution."
+    - **Refs:** `dusk5.png`, `magdalene1.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/love_hotel/suzy_feeding_closeup_v2_2k_(banana_pro).jpg`
+
+145. **Suzy Feeding on Dusk (High Angle Redo v2)**
+    - **Scene:** High angle looking down at them on the floor. Suzy frail, desperate, and nearly naked, biting his forearm.
+    - **Style:** Rembrandt / Tragic / Visceral.
+    - **Prompt:** "CRITICAL: This MUST look exactly like a 17th-century authentic museum-grade oil painting on canvas. Extreme impasto, thick layered paint. High angle looking down. Inside a grim, depraved 1980s LA apartment. Suzy (Mary Magdalene) is frail, desperate, and nearly naked, sitting on the dirty floor. Dusk (Zac) is kneeling beside her. She is viciously biting his bare forearm, drinking his blood to recover. Heavy shadows, tragic, visceral, and raw. Style of Rembrandt. 2K resolution."
+    - **Refs:** `dusk5.png`, `magdalene1.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/love_hotel/suzy_feeding_high_angle_v2_2k_(banana_pro).jpg`
+
+146. **Suzy Feeding on Dusk (Wide Shot Redo v2)**
+    - **Scene:** Wide shot showing the filthy apartment and them in the dark corner.
+    - **Style:** Rembrandt / Tenebrism.
+    - **Prompt:** "CRITICAL: This MUST look exactly like a 17th-century authentic museum-grade oil painting on canvas. Extreme impasto, thick layered paint. Wide shot of a grim, depraved 1980s LA apartment with dirty walls, scattered trash, and a single flickering lightbulb. In the dark corner, Suzy (Mary Magdalene) is frail, desperate, and nearly naked on the floor. Dusk (Zac) kneels beside her as she viciously bites his bare forearm to drink his blood and recover. Deep, tragic Tenebrism. Style of Rembrandt. 2K resolution."
+    - **Refs:** `dusk5.png`, `magdalene1.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/love_hotel/suzy_feeding_wide_shot_v2_2k_(banana_pro).jpg`
+
+147. **Suzy Feeding on Dusk (Over Shoulder)**
+    - **Scene:** Over the shoulder of Dusk. Suzy looking up at the viewer with eyes full of ancient hunger, blood on her chin.
+    - **Style:** Rembrandt / Tenebrism / Visceral.
+    - **Prompt:** "CRITICAL: This MUST look exactly like a 17th-century authentic museum-grade oil painting on canvas. Extreme impasto, thick layered paint. Over the shoulder of Dusk (Zac). Inside a grim, depraved 1980s LA apartment. We see Dusk's broad back in a leather jacket as he kneels. Suzy (Mary Magdalene), frail and nearly naked on the dirty floor, is viciously biting his bare forearm. She is looking up at the viewer with eyes full of ancient hunger and desperation, blood on her chin. Heavy shadows, tragic, visceral. Style of Rembrandt. 4K resolution."
+    - **Refs:** `magdalene1.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/love_hotel/suzy_feeding_over_shoulder_4k_(banana_pro).jpg`
+
+## Batch 35: The Ancient Origins (Roman / Biblical Era)
+148. **Ancient Roman Temple (Redo v2)**
+    - **Scene:** A ruined, colossal Roman stone temple in the desert at deep twilight. Suzy draped in translucent ancient linen.
+    - **Style:** Rembrandt / Caravaggio / Extreme Impasto.
+    - **Prompt:** "CRITICAL: This MUST look exactly like a 17th-century authentic museum-grade oil painting on canvas. The ancient origins of Mary Magdalene (Suzy) in the Biblical era. A ruined, colossal Roman stone temple in the desert at deep twilight. Suzy is an artistic nude, draped in translucent, coarse ancient linen that blows in the desert wind. Her dusty rose hair is long and wild. She stands alone among massive weathered columns, ancient and immortal. CRITICAL: The woman's face MUST perfectly match the facial likeness of the provided reference image. Extremely heavy oil paint texture, thick impasto, visible palette knife strokes. No digital smoothing. Style of Rembrandt and Caravaggio. 4K resolution."
+    - **Refs:** `magdalene1.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/origin/ancient_roman_temple_v2_4k_(banana_pro).jpg`
+
+149. **Ancient Desert Campfire (Redo v2)**
+    - **Scene:** 1st century desert night. Suzy sits by a small campfire in tattered robes.
+    - **Style:** Goya's Black Paintings.
+    - **Prompt:** "CRITICAL: This MUST look exactly like a 17th-century authentic museum-grade oil painting on canvas. An ancient desert night under a sky full of stars, 1st century. Suzy (Mary Magdalene) sits by a small, dying campfire in the sand. She wears tattered, ancient desert robes. The firelight illuminates her face with a harsh, warm glow against the cold, deep blue night. A look of timeless melancholy and ancient power. CRITICAL: The woman's face MUST perfectly match the facial likeness of the provided reference image. Harsh menacing brushstrokes, thick layered oil paint, and raw painterly skin. Style of Goya's Black Paintings. 4K resolution."
+    - **Refs:** `magdalene1.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/origin/ancient_desert_campfire_v2_4k_(banana_pro).jpg`
+
+150. **Ancient Roman Bath**
+    - **Scene:** Decaying ancient Roman bathhouse lit by moonlight. Suzy stepping barefoot into the water in sheer white silk.
+    - **Style:** Ribera / Tenebrism.
+    - **Prompt:** "High-end museum-grade oil painting. Inside a decaying ancient Roman bathhouse lit by moonlight. Suzy (Mary Magdalene) is extremely sensual, stepping barefoot into the dark, still water. She is wearing sheer, ancient white silk. Reflections of classical statues and columns in the water. Deep Tenebrism shadows. CRITICAL: Extreme impasto texture, visible palette knife scrapes, and raw painterly skin. Style of Ribera. 4K resolution."
+    - **Refs:** `magdalene1.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/origin/ancient_roman_bath_4k_(banana_pro).jpg`
+
+151. **Ancient Thorn Portrait (Redo v2)**
+    - **Scene:** Close-up portrait of Suzy with a crown of dried desert thorns and a dark linen veil.
+    - **Style:** Caravaggio.
+    - **Prompt:** "CRITICAL: This MUST look exactly like a 17th-century authentic museum-grade oil painting on canvas. A close-up portrait of Suzy (Mary Magdalene) in her ancient origins. She wears a crown of dried desert thorns and a dark, coarse linen veil over her dusty rose hair. Her gaze is solemn, piercing, and immortal. Deep black background, single light source. CRITICAL: The woman's face MUST perfectly match the facial likeness of the provided reference image. Extremely heavy oil paint texture, thick impasto, and visible brushstrokes. Skin must look like layered, weathered paint. Style of Caravaggio. 4K resolution."
+    - **Refs:** `magdalene1.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/origin/ancient_thorn_portrait_v2_4k_(banana_pro).jpg`
+
+## Batch 36: Ancient Greece - The Classical Decadence (Banana Pro 4K)
+152. **Ancient Thorn Portrait (Alternate Angle)**
+    - **Scene:** Three-quarter profile close-up portrait of Suzy with a crown of dried desert thorns and a dark linen veil.
+    - **Style:** Caravaggio.
+    - **Prompt:** "CRITICAL: This MUST look exactly like a 17th-century authentic museum-grade oil painting on canvas. A close-up portrait of Suzy (Mary Magdalene) in her ancient origins. Three-quarter profile angle. She wears a crown of dried desert thorns and a dark, coarse linen veil over her dusty rose hair. Her gaze is solemn, piercing, and immortal, looking slightly away from the viewer. Deep black background, single light source highlighting her cheekbones. CRITICAL: The woman's face MUST perfectly match the facial likeness of the provided reference image. Extremely heavy oil paint texture, thick impasto, and visible palette knife scrapes. Style of Caravaggio. 4K resolution."
+    - **Refs:** `magdalene1.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/origin/ancient_thorn_portrait_v3_angle_4k_(banana_pro).jpg`
+
+153. **Ancient Greek Temple**
+    - **Scene:** Suzy between the columns of a ruined, colossal marble temple of Apollo on a high cliff.
+    - **Style:** Rembrandt / Extreme Impasto.
+    - **Prompt:** "CRITICAL: This MUST look exactly like a 17th-century authentic museum-grade oil painting on canvas. The ancient origins of Mary Magdalene (Suzy) in Ancient Greece. A ruined, colossal marble temple of Apollo on a high cliff. Suzy is extremely sensual, barefoot, wearing a revealing, tattered ancient Greek chiton that falls off her shoulders. She stands between towering fluted columns, holding a bronze chalice. The sky is a dramatic twilight of deep purples and oranges. CRITICAL: The woman's face MUST perfectly match the facial likeness of the provided reference image. Extremely heavy oil paint texture, thick impasto, visible palette knife strokes. Style of Rembrandt. 4K resolution."
+    - **Refs:** `magdalene1.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/origin/ancient_greek_temple_4k_(banana_pro).jpg`
+
+154. **Ancient Greek Symposium**
+    - **Scene:** Suzy reclining on a dark velvet kline in an abandoned symposium with spilled wine on marble.
+    - **Style:** Goya / Raw Painterly Textures.
+    - **Prompt:** "CRITICAL: This MUST look exactly like a 17th-century authentic museum-grade oil painting on canvas. An ancient Greek symposium, long abandoned. White marble floors covered in dark, spilled wine and withered grapes. Suzy (Mary Magdalene) is extremely sensual, reclining on a dark velvet kline (couch). She is barefoot, wearing a dark, translucent silk tunic. Deep, menacing shadows. A single brass oil lamp lights her pale skin. CRITICAL: The woman's face MUST perfectly match the facial likeness of the provided reference image. Extreme impasto, rough painterly textures, and no digital smoothing. Style of Goya. 4K resolution."
+    - **Refs:** `magdalene1.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/origin/ancient_greek_symposium_4k_(banana_pro).jpg`
+
+155. **Ancient Aegean Cliff**
+    - **Scene:** Suzy looking over the pitch-black Aegean Sea from a high, jagged white marble cliff at midnight.
+    - **Style:** Caravaggio / Tenebrism.
+    - **Prompt:** "CRITICAL: This MUST look exactly like a 17th-century authentic museum-grade oil painting on canvas. The ancient origins of Mary Magdalene (Suzy) in Ancient Greece. Suzy stands barefoot on a high, jagged white marble cliff overlooking the Aegean Sea at midnight. She is extremely sensual, wearing a dark, tattered linen chiton blowing wildly in the sea wind. The sea below is pitch black, reflecting the cold light of a full moon. A look of ancient, immortal melancholy. CRITICAL: The woman's face MUST perfectly match the facial likeness of the provided reference image. Extreme impasto, visible palette knife scrapes, dark Tenebrism. Style of Caravaggio. 4K resolution."
+    - **Refs:** `magdalene1.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/origin/ancient_aegean_cliff_4k_(banana_pro).jpg`
+
+## Batch 37: Ancient Greece - The Forgotten Ruins (Banana Pro 4K)
+156. **Ancient Greek Amphitheater**
+    - **Scene:** Suzy standing alone in the center of a massive, ruined stone amphitheater under a full moon.
+    - **Style:** Ribera / Extreme Impasto.
+    - **Prompt:** "CRITICAL: This MUST look exactly like a 17th-century authentic museum-grade oil painting on canvas. The ancient origins of Mary Magdalene (Suzy) in Ancient Greece. She stands alone in the center of a massive, ruined stone amphitheater under a full moon. She is extremely sensual, wearing a tattered, dark ancient Greek chiton. CRITICAL: The woman's face MUST perfectly match the facial likeness of the provided reference image. Her face MUST NOT look smooth or plastic. The facial skin must be rendered with thick, visible palette knife scrapes and heavy oil paint impasto. Style of Ribera. 4K resolution."
+    - **Refs:** `magdalene1.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/origin/ancient_greek_amphitheater_4k_(banana_pro).jpg`
+
+157. **Ancient Greek Oracle**
+    - **Scene:** Suzy as an oracle in a dark, sulfurous cavern, shrouded in mystical smoke.
+    - **Style:** Caravaggio / Deep Tenebrism.
+    - **Prompt:** "CRITICAL: This MUST look exactly like a 17th-century authentic museum-grade oil painting on canvas. The ancient origins of Suzy in Ancient Greece. Deep inside a dark, sulfurous cavern. Suzy sits on a rough stone tripod, shrouded in thick mystical smoke and shadows. She is barefoot in a sheer linen tunic. CRITICAL: The woman's face MUST perfectly match the facial likeness of the provided reference image. Her face MUST NOT look smooth or plastic. The facial skin must be rendered with thick, visible palette knife scrapes and heavy oil paint impasto. Deep Tenebrism. Style of Caravaggio. 4K resolution."
+    - **Refs:** `magdalene1.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/origin/ancient_greek_oracle_4k_(banana_pro).jpg`
+
+158. **Ancient Olive Grove**
+    - **Scene:** Suzy leaning against a gnarled olive tree in an overgrown grove at midnight.
+    - **Style:** Goya's Black Paintings.
+    - **Prompt:** "CRITICAL: This MUST look exactly like a 17th-century authentic museum-grade oil painting on canvas. An overgrown, forgotten olive grove in ancient Greece at midnight. Suzy (Mary Magdalene) stands leaning against the gnarled bark of a massive olive tree. Her pale skin and dusty rose hair stand out against the dark, twisted branches. CRITICAL: The woman's face MUST perfectly match the facial likeness of the provided reference image. Her face MUST NOT look smooth or plastic. The facial skin must be rendered with extremely heavy oil paint texture, thick impasto, and visible palette knife scrapes. Style of Goya's Black Paintings. 4K resolution."
+    - **Refs:** `magdalene1.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/origin/ancient_olive_grove_4k_(banana_pro).jpg`
+
+159. **Ancient Marble Statue**
+    - **Scene:** Suzy standing beside a crumbling classical white marble statue, lit by a single torch.
+    - **Style:** Rembrandt.
+    - **Prompt:** "CRITICAL: This MUST look exactly like a 17th-century authentic museum-grade oil painting on canvas. Suzy (Mary Magdalene) standing beside a crumbling, classical white marble statue of a forgotten god. The scene is lit by a single torch. She is sensual, draped in dark ancient silk. CRITICAL: The woman's face MUST perfectly match the facial likeness of the provided reference image. Her face MUST NOT look smooth or plastic. The facial skin must be rendered with extremely heavy oil paint texture, thick impasto, and visible palette knife scrapes. Style of Rembrandt. 4K resolution."
+    - **Refs:** `magdalene1.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/origin/ancient_marble_statue_4k_(banana_pro).jpg`
+
+## Batch 38: Frozen Wilderness - Blood & Snow (Banana Pro)
+160. **Frozen Wilderness Blood Trail**
+    - **Scene:** Suzy barefoot in the snow wearing a tattered black lace gown, shivering but immortal. A stark trail of dark crimson blood behind her. Brutalist concrete cabin in a frozen Siberian wasteland during a blizzard.
+    - **Style:** Goya / Rembrandt / Extreme Impasto.
+    - **Prompt:** "CRITICAL: This MUST look exactly like a 17th-century authentic museum-grade oil painting on canvas. Extreme impasto, thick layered paint. A desolate, brutalist concrete cabin in a frozen Siberian wasteland during a blizzard. Deep blue shadows on pristine white snow. Suzy (Mary Magdalene) stands barefoot in the snow, wearing only a tattered black lace gown, shivering but immortal. A stark trail of dark crimson blood behind her. CRITICAL: The woman's face MUST perfectly match the facial likeness of the provided reference image. Her face MUST NOT look smooth or plastic. Visible palette knife scrapes. Style of Goya and Rembrandt. 4K resolution."
+    - **Refs:** `magdalene1.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/ritual/frozen_wilderness_blood_trail_4k_(banana_pro).jpg`
+
+161. **Dusk Frozen Hunter**
+    - **Scene:** Dusk in the deep snow, wearing a heavy wolf-fur coat and holding a massive, blood-stained axe. Nordic wasteland at night under a full moon.
+    - **Style:** Caravaggio.
+    - **Prompt:** "CRITICAL: This MUST look exactly like a 17th-century authentic museum-grade oil painting on canvas. Extreme impasto, thick layered paint. A desolate, frozen Nordic wasteland at night under a full moon. Dusk (Zac) stands in the deep snow, wearing a heavy, dark wolf-fur coat. He holds a massive, blood-stained axe. Deep blue shadows clashing with the dark crimson blood on the white snow. CRITICAL: The man's face MUST perfectly match the facial likeness of the provided reference image. His face MUST NOT look smooth or plastic. Style of Caravaggio. 4K resolution."
+    - **Refs:** `dusk5.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/ritual/dusk_frozen_hunter_4k_(banana_pro).jpg`
+
+162. **Suzy Frozen Portrait**
+    - **Scene:** Close-up portrait of Suzy in a frozen wasteland, hair covered in frost, blood staining her pale skin.
+    - **Style:** Ribera / Raw Painterly Skin.
+    - **Prompt:** "CRITICAL: This MUST look exactly like a 17th-century authentic museum-grade oil painting on canvas. Extreme impasto, thick layered paint. Close-up portrait of Suzy (Mary Magdalene) in a frozen wasteland. Her dusty rose hair is covered in frost and snow. Dark crimson blood stains her pale skin, contrasting with the cold blue light. She looks ancient, predatory, and surviving. CRITICAL: The woman's face MUST perfectly match the facial likeness of the provided reference image. Her face MUST NOT look smooth or plastic. Raw painterly skin, visible brushstrokes. Style of Ribera. 4K resolution."
+    - **Refs:** `magdalene1.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/ritual/suzy_frozen_portrait_4k_(banana_pro).jpg`
+
+163. **Frozen Cabin Survival**
+    - **Scene:** Inside a freezing brutalist concrete cabin. Dusk and Suzy huddled together wrapped in animal furs by a dying fire.
+    - **Style:** Tenebrism / Harsh Menacing Brushstrokes.
+    - **Prompt:** "CRITICAL: This MUST look exactly like a 17th-century authentic museum-grade oil painting on canvas. Extreme impasto, thick layered paint. Inside a dark, freezing brutalist concrete cabin in the snow. Dusk (Zac) and Suzy (Mary Magdalene) are huddled together on a rough stone floor, wrapped in dark, heavy animal furs. A small, dying fire casts a harsh, warm orange glow against the deep, cold blue shadows. Tragic, visceral isolation. CRITICAL: Harsh menacing brushstrokes, raw painterly texture. No digital smoothing. Style of Tenebrism. 2K resolution."
+    - **Refs:** `dusk5.png`, `magdalene1.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/ritual/frozen_cabin_survival_2k_(banana_pro).jpg`
+
+## Batch 39: High-Fashion Blood Cult - 1990s Decadence (Banana Pro 4K)
+164. **The Avant-Garde Runway**
+    - **Scene:** 1990s avant-garde runway show in an abandoned gothic cathedral. Suzy walking in a dark red silk gown and ornate silver mask.
+    - **Style:** Goya / Extreme Impasto.
+    - **Prompt:** "CRITICAL: This MUST look exactly like a 17th-century authentic museum-grade oil painting on canvas. Extreme impasto texture, visible palette knife strokes. An Alexander McQueen-style 1990s avant-garde runway show in an abandoned gothic cathedral. Suzy (Mary Magdalene) is walking down the runway in a terrifying, beautiful gown made of dark red silk that looks like fresh blood, and an ornate, menacing silver mask covering her eyes. High society figures sit in the dark, watching in silent adoration. CRITICAL: The woman's face MUST perfectly match the facial likeness of the provided reference image. Her face MUST NOT look smooth or plastic. Raw painterly skin. Style of Goya. 4K resolution."
+    - **Refs:** `magdalene1.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/ritual/avant_garde_runway_4k_(banana_pro).jpg`
+
+165. **The Masked Sovereign**
+    - **Scene:** Dusk sitting on a velvet throne in the VIP balcony wearing a black silk suit and half-mask, holding a crystal chalice of blood.
+    - **Style:** Caravaggio / Tenebrism.
+    - **Prompt:** "CRITICAL: This MUST look exactly like a 17th-century authentic museum-grade oil painting on canvas. Extreme impasto, thick layered paint. Dusk (Zac) as the orchestrator of a blood cult runway show. He sits on a velvet throne in the VIP balcony of an abandoned gothic cathedral, wearing a sharply tailored black silk 1990s suit and a half-mask. He holds a crystal chalice of blood. Dramatic spotlight clashing with deep shadows. CRITICAL: The man's face MUST perfectly match the facial likeness of the provided reference image. His face MUST NOT look smooth or plastic. Raw painterly skin, visible brushwork. Style of Caravaggio. 4K resolution."
+    - **Refs:** `dusk5.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/ritual/masked_sovereign_balcony_4k_(banana_pro).jpg`
+
+166. **The Backstage Ritual**
+    - **Scene:** Backstage at the avant-garde show. Suzy draped in translucent dark silk and silver chains. Dusk beside her in a black suit. Models in surreal masks around them.
+    - **Style:** Goya / Rembrandt / Tenebrism.
+    - **Prompt:** "CRITICAL: This MUST look exactly like a 17th-century authentic museum-grade oil painting on canvas. Extreme impasto, thick layered paint. Backstage at a high-fashion avant-garde show. Models in surreal, menacing masks and tattered haute couture stand around in the shadows. In the center, Suzy (Mary Magdalene) is extremely sensual, draped only in translucent dark silk and intricate silver body chains. Dusk (Zac) stands beside her as a dark, sovereign witness in a black suit. Deep Tenebrism. Style of Goya and Rembrandt. 4K resolution."
+    - **Refs:** `magdalene1.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/ritual/backstage_blood_ritual_4k_(banana_pro).jpg`
+
+167. **Decadence Mask Portrait**
+    - **Scene:** Close-up portrait of Suzy with her menacing silver mask pushed up, revealing her face. Blood stains her lips.
+    - **Style:** Ribera / Extreme Impasto.
+    - **Prompt:** "CRITICAL: This MUST look exactly like a 17th-century authentic museum-grade oil painting on canvas. A close-up portrait of Suzy (Mary Magdalene) in her high-fashion cult attire. An intricate, menacing silver mask is pushed up on her forehead, revealing her pale skin and dusty rose hair. She has a look of ancient, hungry ecstasy. Dark red wine stains her lips. Dark, smoky background. CRITICAL: The woman's face MUST perfectly match the facial likeness of the provided reference image. Her face MUST NOT look smooth or plastic. Extreme impasto, raw painterly skin, visible brushwork. Style of Ribera. 4K resolution."
+    - **Refs:** `magdalene1.png`
+    - **Path:** `~/img-factory/ethos_of_dusk/ritual/decadence_mask_portrait_4k_(banana_pro).jpg`
+
+## Batch 40: The Inquisition - Dark Ages Rescue (Banana Pro 4K)
+156. **Suzy in the Dungeon**
+    - **Scene:** Suzy chained to a stone wall in a damp, torch-lit Gothic dungeon.
+    - **Style:** Rembrandt / Goya / Chiaroscuro.
+    - **Prompt:** "CRITICAL: This MUST look exactly like a 17th-century authentic museum-grade oil painting on canvas. Extreme impasto texture, visible palette knife strokes. A damp, torch-lit Gothic dungeon in the Dark Ages. Suzy (Mary Magdalene) is chained to a stone wall, her clothing a tattered peasant shift, but her gaze is ancient, powerful, and defiant. The heavy iron chains are rusting. A single flickering torch casts long, menacing shadows. CRITICAL: Extremely heavy oil paint texture, thick impasto, and visible palette knife strokes. No digital smoothing. Style of Goya and Rembrandt. 4K resolution."
+    - **Refs:** 
+    - **Path:** 
+
+157. **Dusk's Rescue**
+    - **Scene:** Dusk breaking into the dungeon corridor with a torch.
+    - **Style:** Caravaggio / Tenebrism.
+    - **Prompt:** "CRITICAL: This MUST look exactly like a 17th-century authentic museum-grade oil painting on canvas. Extreme impasto, thick layered paint. The dark dungeon corridor. Dusk (Zac) has just broken into the facility to save Suzy. He stands tall in a long, heavy black leather trench coat, his eyes ancient and powerful. He is carrying a weakened, 'crazy' Suzy in his arms; she is barefoot and wearing her tattered linen shift and leather harness. Chiaroscuro with dramatic shadows of the iron bars on the concrete. CRITICAL: Extremely heavy oil paint texture, harsh menacing brushstrokes, and thick layered oil paint. Style of Goya and Caravaggio. 4K resolution."
+    - **Refs:** 
+    - **Path:** 
+
+158. **Suzy's Power Reveal**
+    - **Scene:** Suzy breaking her chains with ancient power, Dusk watching in awe.
+    - **Style:** Ribera / Visceral Impasto.
+    - **Prompt:** "CRITICAL: This MUST look exactly like a 17th-century authentic museum-grade oil painting on canvas. Extreme impasto, violent brushstrokes, and thick layered oil paint. The moment Suzy (Mary Magdalene) uses her ancient power to break the heavy iron chains on the stone wall. Stone and sparks fly. She stands triumphant and terrifying, her dusty rose hair wild. Dusk (Zac) is watching her in awe from the doorway. CRITICAL: Extreme impasto, violent brushstrokes, and thick layered oil paint. Style of Ribera. 4K resolution."
+    - **Refs:** , 
+    - **Path:** 
+
+159. **The Dark Forest Escape**
+    - **Scene:** Dusk carrying Suzy into the dark forest at night, shadows against the moon.
+    - **Style:** Goya / Tragic Visceral.
+    - **Prompt:** "CRITICAL: This MUST look exactly like a 17th-century authentic museum-grade oil painting on canvas. Extreme impasto, thick layered oil paint. The escape from the dark dungeon into the silent, dense forest at night. Dusk (Zac) is carrying the barefoot Suzy in his arms, both running through the thick fog. They are silhouettes against the moon. Tragic and visceral. CRITICAL: Extremely heavy oil paint texture, thick impasto, and visible palette knife strokes. Style of Goya. 4K resolution."
+    - **Refs:** , 
+    - **Path:** 
+
+## Batch 41: The 1750s Villa Escape - Refined Likeness (Banana Pro 4K)
+168. **Suzy Dungeon Redo v3**
+    - **Scene:** Suzy chained to a pillar in an 18th-century cellar. Signs of torture, but tragic elegance.
+    - **Style:** Rembrandt / Goya.
+    - **Prompt:** "CRITICAL: This MUST look exactly like a 17th-century authentic museum-grade oil painting on canvas. Extreme impasto texture, visible palette knife strokes. The cold, stone-walled cellar of an 18th-century villa, 1750. Suzy (Mary Magdalene) is tied to a wooden pillar, suffering and in pain, her tattered shift barely covering her. Signs of torture are visible but elegant in their tragedy. CRITICAL: The woman's face MUST perfectly match the facial likeness of the provided reference image. Her face MUST NOT look smooth or plastic. Visible palette knife scrapes. Style of Goya and Rembrandt. 4K resolution."
+    - **Refs:** 
+    - **Path:** 
+
+169. **Villa Escape Gardens Redo v2**
+    - **Scene:** Dusk carrying weakened Suzy through moonlight-drenched hedges. 
+    - **Style:** Rembrandt / Tragic.
+    - **Prompt:** "CRITICAL: This MUST look exactly like a 17th-century authentic museum-grade oil painting on canvas. Extreme impasto, thick layered oil paint. The gardens of an 18th-century villa at night. Dusk (Zac) is carrying a weakened Suzy (Mary Magdalene) through the ornate, moonlight-drenched hedges. She is barefoot in her tattered shift. They are escaping into the darkness, the villa silhouetted against a full moon. CRITICAL: Both faces MUST perfectly match the facial likeness of the provided reference image. Harsh menacing brushstrokes, raw painterly skin. Style of Rembrandt. 4K resolution."
+    - **Refs:** , 
+    - **Path:** 
+
+170. **Villa Escape Close-up v2**
+    - **Scene:** Dusk carrying Suzy, close-up. Suzy head resting on shoulder.
+    - **Style:** Rembrandt / Visceral Impasto.
+    - **Prompt:** "CRITICAL: This MUST look exactly like a 17th-century authentic museum-grade oil painting on canvas. Extreme impasto, thick layered paint. Close-up: Dusk (Zac) walking through the dark villa gardens, carrying Suzy (Mary Magdalene) in his arms. Suzy is partially unconscious, her head resting on his shoulder, her dusty rose hair falling back. Dusk's expression is one of intense, immortal focus. CRITICAL: Both faces MUST perfectly match the facial likeness of the provided reference image. Visceral impasto texture, visible palette knife scrapes. Style of Rembrandt. 4K resolution."
+    - **Refs:** , 
+    - **Path:** 
+
+## Batch 42: The Den of Depravity - Redos & New Visions (Banana Pro 4K)
+164. **Vampire Reunion Silks**
+    - **Scene:** Dusk and Suzy tangled on a silk bed, playing and lounging in the 80s apartment.
+    - **Style:** Rembrandt / Caravaggio / Extreme Impasto.
+    - **Prompt:** "Visceral masterpiece oil painting, museum quality. A dark, intimate 1980s LA apartment at night. Viktor (Dusk) and Suzy (Mary Magdalene) are intertwined on a bed of dark, heavy stolen silks. Suzy is leaning her head against Viktor's bare chest, her eyes closed in a moment of ancient peace. Viktor is looking at her with a solemn, sovereign gaze. CRITICAL: Extremely heavy oil paint texture, thick impasto, and visible palette knife strokes. Physical painting aesthetic. Style of Goya and Rembrandt. 4K resolution."
+    - **Refs:** , 
+    - **Path:** 
+
+165. **Vampire Throne Depravity**
+    - **Scene:** Suzy as an artistic nude on a throne of silks and rusted metal; Dusk in shadows.
+    - **Style:** Goya / Extreme Impasto.
+    - **Prompt:** "Visceral masterpiece oil painting, museum quality. A dark corner of the depraved apartment. Suzy (Mary Magdalene) as an artistic nude on a throne of fine stolen silks and rusted metal, looking ancient and powerful. Dusk (Zac) stands in the shadows behind her, a dark sovereign witness. CRITICAL: Extremely heavy oil paint texture, thick impasto, and visible palette knife strokes. Style of Goya. 4K resolution."
+    - **Refs:** , 
+    - **Path:** 
+
+166. **Suzy Feeding on Dusk**
+    - **Scene:** Suzy biting Dusk's forearm to recover in the grim LA apartment.
+    - **Style:** Rembrandt / Tragic / Visceral.
+    - **Prompt:** "Visceral masterpiece oil painting, museum quality. Inside a grim, depraved 1980s LA apartment. Suzy (Mary Magdalene) is in a state of absolute decadence, frail, desperate, and nearly naked, sitting on the dirty floor. Dusk (Zac) is kneeling beside her, saving her. She is viciously biting his bare forearm, drinking his blood to recover. Heavy shadows, tragic, visceral, and raw. Style of Rembrandt. 4K resolution."
+    - **Refs:** , 
+    - **Path:** 
+
+167. **Ancient Embrace Redo**
+    - **Scene:** Dusk embracing Suzy in the dark apartment corner by candlelight.
+    - **Style:** Goya / Velázquez / Extreme Impasto.
+    - **Prompt:** "Visceral masterpiece oil painting, museum quality. A dark, smoke-filled corner of the 80s apartment. Suzy (Mary Magdalene) stands barefoot on the dark wooden floor, her long hair wild. Dusk (Zac) is behind her, his hand resting on her waist in a solemn, ancient embrace. The room is dimly lit by a single candle. CRITICAL: Extremely heavy oil paint texture, thick impasto, and visible palette knife strokes. No digital smoothing. Style of Goya and Velázquez. 4K resolution."
+    - **Refs:** , 
+    - **Path:** 
+
+## Batch 43: Synthesis of the Immortals - The Apartment & The Lure (Banana Pro 4K)
+168. **Reunion Silks**
+    - **Scene:** Intimate moment in the 80s apartment, entwined on silks.
+    - **Style:** Caravaggio / Extreme Impasto.
+    - **Prompt:** "CRITICAL: This MUST look exactly like a 17th-century authentic museum-grade oil painting on canvas. Extreme impasto texture, visible palette knife strokes. Inside the dark velvet bedroom of a luxurious 1980s LA apartment at night. Dusk (Zac) and Suzy (Mary Magdalene) are intertwined on a bed of dark, heavy stolen silks. Suzy is leaning her head against Viktor's bare chest, her eyes closed in a moment of ancient peace. Viktor is looking at her with a solemn, sovereign gaze. CRITICAL: Extremely heavy oil paint texture, thick impasto, and visible palette knife strokes. Physical painting aesthetic. Style of Rembrandt and Caravaggio. 4K resolution."
+    - **Refs:** , 
+    - **Path:** 
+
+169. **Sovereign Throne Depravity**
+    - **Scene:** Suzy as artistic nude on a throne of silks and rusted metal in the depraved apartment.
+    - **Style:** Goya / Extreme Impasto.
+    - **Prompt:** "CRITICAL: This MUST look exactly like a 17th-century authentic museum-grade oil painting on canvas. Extreme impasto, thick layered paint. A dark corner of the depraved apartment. Suzy (Mary Magdalene) as an artistic nude on a throne of fine stolen silks and rusted metal, looking ancient and powerful. Dusk (Zac) stands in the shadows behind her, a dark sovereign witness. CRITICAL: Extremely heavy oil paint texture, thick impasto, and visible palette knife strokes. Style of Goya. 4K resolution."
+    - **Refs:** , 
+    - **Path:** 
+
+170. **Suzy Feeding on Dusk**
+    - **Scene:** Suzy viciously biting Dusk's forearm to recover in the grim LA apartment.
+    - **Style:** Rembrandt / Tragic / Visceral.
+    - **Prompt:** "CRITICAL: This MUST look exactly like a 17th-century authentic museum-grade oil painting on canvas. Extreme impasto, thick layered paint. Inside a grim, depraved 1980s LA apartment. Suzy (Mary Magdalene) is in a state of absolute decadence, frail, desperate, and nearly naked, sitting on the dirty floor. Dusk (Zac) is kneeling beside her, saving her. She is viciously biting his bare forearm, drinking his blood to recover. Heavy shadows, tragic, visceral, and raw. Style of Rembrandt. 4K resolution."
+    - **Refs:** , 
+    - **Path:** 
+
+171. **Immortal Aegean Dawn**
+    - **Scene:** Dusk and Suzy as newly turned vampires on a high Aegean cliff.
+    - **Style:** Caravaggio / Tenebrism.
+    - **Prompt:** "CRITICAL: This MUST look exactly like a 17th-century authentic museum-grade oil painting on canvas. Extreme impasto, visible palette knife strokes. The ancient origins of Dusk and Suzy as a newly turned vampire pair. Standing barefoot on a high, jagged white marble cliff overlooking the pitch-black Aegean Sea at midnight. Suzy is draped in a dark, translucent linen chiton blowing wildly in the sea wind. The sky is lit by a sickly neon-orange moon clashing with deep bruised purples. CRITICAL: Both faces MUST perfectly match the facial likeness of the reference images. Raw painterly skin, no digital smoothness. Style of Caravaggio. 4K resolution."
+    - **Refs:** , 
+    - **Path:** 
